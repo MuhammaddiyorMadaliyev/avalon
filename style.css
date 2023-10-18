@@ -1,0 +1,198 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1280px;
+    margin: 0 auto;
+    font-family: 'Clash Display', sans-serif;
+}
+.ims{
+    display: flex;
+    gap: 30px;
+}
+
+.top{
+    display: flex;
+align-items: center;
+    justify-content: space-between;
+    padding-top: 30px;
+    margin-bottom: 20px;
+}
+
+.botom{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 20px;
+}
+.botom p{
+    color: #726E8D;
+}
+
+.future{
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+    color: white;
+}
+
+.right{
+    width: 1000px;
+    padding: 28px 50px;
+    background-color: #2A254B;
+}
+
+.right button{
+    padding: 10px 20px;
+    background-color: #ffffff6b;
+    margin-top: 50px;
+    margin-bottom: 300px;
+    color: white;
+    border: none;
+}
+
+.brand{
+    margin-top: 200px;
+}
+
+
+.cards{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding-bottom: 50px;
+}
+
+.box{
+    width: 300px;
+}
+
+.logo h1{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.box h3{
+    color: #2A254B;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.center{
+    display: flex;
+    gap: 50px;
+}
+
+.card h3{
+    color: #2A254B;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.lop{
+    margin-bottom: 50px;
+    
+}
+
+.kil button{
+    padding: 10px 20px;
+    background-color: #ffffff6b;
+    margin-top: 50px;
+    margin-bottom: 300px;
+    background-color: #F9F9F9;
+    border: none;
+}
+.kil{
+    text-align: center;
+}
+
+.trap{
+    background-color: whitesmoke;
+    padding: 50px;
+}
+.cerect h1{
+    padding: 50px 0px 0px 0px;
+    margin-bottom: 30px;
+    font-size: 36px;
+}
+
+.cerect{
+    text-align: center;
+}
+.veir{
+    text-align: center;
+    margin-top: 50px;
+    padding-bottom: 50px;
+}
+
+.veir input{
+    width: 354px;
+    height: 56px;
+    font-size: 15px;
+}
+
+.veir button{
+    padding: 18px;
+    text-align: center;
+    background-color: #2A254B;
+    color: white;
+}
+
+.club_info{
+    width: 1273px;
+    height: 364px;
+    background-color: white;
+}
+
+.hero{
+    background-color: #2A254B;
+    padding: 50px;
+}
+
+.job{
+    color: white;
+}
+.top5{
+    display: flex;
+    gap: 50px;
+}
+
+.veir1 input{
+    width: 627px;
+    height: 56px;
+    font-size: 15px;
+    background-color: rgba(245, 245, 245, 0.568);
+    color: white;
+    margin-top: 10px;
+    padding-left: 15px;
+}
+
+.veir1 button{
+    padding: 18px;
+    text-align: center;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+}
+
+hr{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.gap{
+    display: flex;
+    gap: 50px;
+}
+.botom5{
+    display: flex;
+
+align-items: center;
+justify-content: space-between;
+}
+
+.like{
+    color: white;
+}
